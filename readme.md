@@ -2,9 +2,11 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/e95111d0-57da-42fc-a463-ac5efc745f23" alt="Chatbot" width="500"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/5e81ba27-b731-4b2a-8a52-34ece2e9990d" alt="Dashboard" width="500"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/e91a3dbc-6968-48af-bd39-77b2dd42fcce" alt="Submission" width="500"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e95111d0-57da-42fc-a463-ac5efc745f23" alt="Chatbot" ></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/5e81ba27-b731-4b2a-8a52-34ece2e9990d" alt="Dashboard" ></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e91a3dbc-6968-48af-bd39-77b2dd42fcce" alt="Submission" ></td>
   </tr>
 </table>
 
