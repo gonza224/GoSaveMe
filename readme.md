@@ -47,38 +47,38 @@ This project is envisioned to enable non-profits to manage donation requests for
 1. **Clone the repository:**
 2. **Install backend dependencies:**
 
-   """bash
+   ```bash
    composer install
    php artisan key:generate
-   """
+   ```
 
 3. **Install frontend dependencies:**
 
-   """bash
+   ```bash
    npm install
    npm run dev
-   """
+   ```
 
 4. **Configure your environment:**
 
    - Copy ".env.example" to ".env" and update your database configuration.
    - Set your Gemini API key in your environment file:
-     """ 
+     ```
      VITE_GEMINI_API_KEY=your_gemini_api_key_here
-     """
+     ```
 
 5. **Run database migrations:**
 
-   """bash
+   ```bash
    php artisan migrate
-   """
+   ```
 
 6. **Run the Project**
   
-  """bash
+  ```bash
   php artisan serve
   npm run dev
-  """
+  ```
 
 ## Future Directions
 
